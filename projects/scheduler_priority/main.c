@@ -7,8 +7,7 @@
  * Serge Hould      Nov.15  2018       v1.0.0
  *
  *
- * TO DO 
- * Add a file all_tasks.c and all_tasks.h  and populate with 9 tasks   
+ * 
  *********************************************************************************/
 
 /* Standard includes. */
